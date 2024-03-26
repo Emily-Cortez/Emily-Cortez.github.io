@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Reddit+Mono:wght@200..900&display=swap');
+
+/* NO OLVIDAR EL ";" */
+* {
+    margin: 0;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+}
+
+header, footer {
+    background-color: coral; /* FONDO */
+    color: antiquewhite; /* fuente o tipografia */
+    height: auto;
+    text-align: center; /* Alineacion del texto */ 
+}
+
+/*rgb, code?*/
+/*para crear paletas de colores, crear coolors.co o color.adobe.com/es/ */
